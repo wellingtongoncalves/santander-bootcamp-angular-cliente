@@ -45,7 +45,4 @@ ng new client-room
 
 
 
-# Angular-Dio-Client
-# Angular-Dio-Client
-# Angular-Dio-Client
-# santander-bootcamp-angular-cliente
+
